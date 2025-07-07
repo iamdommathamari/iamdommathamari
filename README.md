@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Service Desk Analyst turning into DevOps Engineer in 90 Days</h3>
 
 <p align="center">
-  <img src="https://github.com/iamdommathamari/DevOps90/devops_banner.jpeg" width="80%" alt="DevOps Banner">
+  <img src="https://github.com/iamdommathamari/DevOps90/blob/c859cab758ef2eebe7f97a3ad755fc69ba94de2e/devops_banner.jpeg" width="80%" alt="DevOps Banner">
 </p>
 
 ---
