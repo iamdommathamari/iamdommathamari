@@ -21,7 +21,7 @@
 | Day | Topic | GitHub | LinkedIn |
 |-----|-------|--------|----------|
 | 1   | DevOps + Linux | [Repo](https://github.com/iamdommathamari/DevOps90) | [Post](https://www.linkedin.com/posts/iamdommathamari_github-iamdommathamaridevops90-i-am-taking-activity-7347934930066186240-ncNt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXRY50B0y8l7aPtTkNqR1K0HfzcqdMItP4) |
-| 2   | Bash Scripting | Coming Soon | 🔜 |
+| 2   | Bash Scripting | [Repo](https://github.com/iamdommathamari/DevOps90) | [Post](https://www.linkedin.com/posts/iamdommathamari_devops-linux-shellscripting-activity-7348340104647581696-FXyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXRY50B0y8l7aPtTkNqR1K0HfzcqdMItP4) |
 | 3   | Git + GitHub | Coming Soon | 🔜 |
 | ... | ... | ... | ... |
 
