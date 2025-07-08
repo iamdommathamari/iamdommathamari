@@ -25,7 +25,7 @@
 | 3   | Git + GitHub | Coming Soon | 🔜 |
 | ... | ... | ... | ... |
 
-🛠️ [Explore Full Plan](https://github.com/iamdommathamari/DevOps90/blob/main/README_90Days_DevOps.md)
+🛠️ [Explore Full Plan](https://github.com/iamdommathamari/DevOps90/blob/main/README.md)
 
 ---
 
