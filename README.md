@@ -148,6 +148,7 @@
 ## 🧭 Set Sail With Us
 
 <p align="center">
+   <img src="https://imgs.search.brave.com/kKfDBxrx8P-7Bhbh_xans2OxxWeDgrzZAfiQh_uEYeE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFaOVFRdWlqNEwu/anBn" width="40" />
  <img src="https://imgs.search.brave.com/ohqUDGIhD_pTlnHhiWuTenGFTmcnWewsADifV8GZPKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjErc2tzQVNwUkwu/anBn" width="130" height="400" />
    <img src="https://imgs.search.brave.com/7ltHAz5AccZnaC2820Gr5Q56x-fhyluDUjmWZYuHpQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzYyOTI4NS1NTEI4/MDcwMzUyMzE4MF8x/MTIwMjQtRS1hY3Rp/b24tZmlndXJlLW9u/ZS1waWVjZS1zYW5q/aS12YXJpYWJsZS1h/Y3Rpb24taGVyb2Vz/LndlYnA" width="100" />
    <img src="https://imgs.search.brave.com/Ya0kSNBFCrotlvoNF1QTqDH3KSOhwMcmdoQ1kIT0MFU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5jcnVuY2h5cm9s/bC5jb20vb24vZGVt/YW5kd2FyZS5zdGF0/aWMvLS9TaXRlcy1j/cnVuY2h5cm9sbC1t/YXN0ZXItY2F0YWxv/Zy9kZWZhdWx0L2R3/ODZhY2YyZDIvaW1h/Z2VzLzQ1MzUxMjM4/NDA0NDlfb25lLXBp/ZWNlLW5hbWktdmFy/aWFibGUtYWN0aW9u/LWhlcm9lcy1maWd1/cmUtcmUtcnVuXzEu/anBn" width="60" />
