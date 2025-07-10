@@ -1,7 +1,7 @@
 <table width="auto" align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="80%">
-      <h1>🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith Dommathamari</h1>
+      <h1>🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith D. Rakesh</h1>
       <h3>⚓ A DevOps Pirate in Progress, Seeking Mastery Across the Cloudy Seas</h3>
       <p align="center">
         <a href="mailto:mohith.dommathamari@gmail.com">
