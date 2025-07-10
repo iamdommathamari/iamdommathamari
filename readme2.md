@@ -145,18 +145,25 @@
 
 ---
 
-## 🧭 Set Sail With Me
+## 🧭 Set Sail With Us
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohithdommathamari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nakama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/iamdommathamari">
-    <img src="https://img.shields.io/badge/GitHub-Captain-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ <img src="https://imgs.search.brave.com/ohqUDGIhD_pTlnHhiWuTenGFTmcnWewsADifV8GZPKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjErc2tzQVNwUkwu/anBn" width="130" height="400" />
+   <img src="https://imgs.search.brave.com/7ltHAz5AccZnaC2820Gr5Q56x-fhyluDUjmWZYuHpQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzYyOTI4NS1NTEI4/MDcwMzUyMzE4MF8x/MTIwMjQtRS1hY3Rp/b24tZmlndXJlLW9u/ZS1waWVjZS1zYW5q/aS12YXJpYWJsZS1h/Y3Rpb24taGVyb2Vz/LndlYnA" width="100" />
+   <img src="https://imgs.search.brave.com/Ya0kSNBFCrotlvoNF1QTqDH3KSOhwMcmdoQ1kIT0MFU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5jcnVuY2h5cm9s/bC5jb20vb24vZGVt/YW5kd2FyZS5zdGF0/aWMvLS9TaXRlcy1j/cnVuY2h5cm9sbC1t/YXN0ZXItY2F0YWxv/Zy9kZWZhdWx0L2R3/ODZhY2YyZDIvaW1h/Z2VzLzQ1MzUxMjM4/NDA0NDlfb25lLXBp/ZWNlLW5hbWktdmFy/aWFibGUtYWN0aW9u/LWhlcm9lcy1maWd1/cmUtcmUtcnVuXzEu/anBn" width="60" />
+   <img src="https://imgs.search.brave.com/nmY9ndbLzf5o4Lv_exJEebajaa6nv84sCK2DnfIWSvs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5jcnVuY2h5cm9s/bC5jb20vb24vZGVt/YW5kd2FyZS5zdGF0/aWMvLS9TaXRlcy1j/cnVuY2h5cm9sbC1t/YXN0ZXItY2F0YWxv/Zy9kZWZhdWx0L2R3/ZWU1ZjBlMzQvaW1h/Z2VzLzQ1MzUxMjM4/NDQ5NjZfb25lLXBp/ZWNlLW5pY28tcm9i/aW4tdmFyaWFibGUt/YWN0aW9uLWhlcm9l/cy1hY3Rpb24tZmln/dXJlLXJlLXJ1bl8z/LmpwZw" width="100" />
+   <img src="https://imgs.search.brave.com/bCrJiG7sYTEA5Ni4rF9V7XcLyof1rmvRciyoBBZ2b0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MDgxNzFhZTYtN2Nl/My00ZTU5LTg3NzMt/YTdjZDYyNzU2ZTEy/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn" width="100" />
+   <img src="https://imgs.search.brave.com/u8KKDB-iTpIA4y54vFBEgu494TvUchq50-nOqApiFZE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF6ZnhLQ29KR0wu/anBn" width="100" />
+   <img src="https://imgs.search.brave.com/G-OCWDZUUDxSlqks3Oq8BIZnZtfcQFwdKCZ7xAmUnP8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFHMk1odVlvUEwu/anBn" width="100" />
+   <img src="https://imgs.search.brave.com/EIrTaFhno8SWo4SSDJDU2tIadqaGAH9KDSphbkGe56g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFCOHYrSGs0OEwu/anBn" width="100" />
+   <img src="https://imgs.search.brave.com/28rmsqI_rpMcoS-Hsbw-LcjqwlAP9kvM18k-aDIP9sg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/MzA1OWJkNjctM2U1/NC00YTFhLWJjYzkt/YjMxNzg5NWY5NGQx/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn" width="100" />
 </p>
 
 ---
 
-> 🏁 The Grand Line of DevOps awaits — and I’m building my ship, one tool at a time.
+<div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 2px dashed #D72323; font-style: italic;">
+  <p>"I don't want to conquer the cloud. I want the One Piece of perfect infrastructure!"</p>
+  <p>⚓️ Sailing the Grand Line of DevOps since the East Blue (Service Desk)</p>
 
+
+</div>
