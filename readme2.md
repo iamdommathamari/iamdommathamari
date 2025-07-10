@@ -1,7 +1,7 @@
 <h1 align="center">🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith Dommathamari</span></h1>
 <h3 align="center">⚓ A DevOps Pirate in Progress, Seeking Mastery Across the Cloudy Seas</h3>
 
-<img src="https://imgs.search.brave.com/w7nmT6woY931yJfpCPVQWTzG_Gm4vroO7ZPZSvzmkiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS80NC81/Ni81MUpSbm8uanBn" alt="Typing SVG" />
+<img src="https://imgs.search.brave.com/w7nmT6woY931yJfpCPVQWTzG_Gm4vroO7ZPZSvzmkiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS80NC81/Ni81MUpSbm8uanBn" width="100%" height="250%" alt="Typing SVG" />
 ---
 
 ## 🌊 The Grand DevOps Voyage Begins!
