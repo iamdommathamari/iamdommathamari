@@ -1,8 +1,25 @@
-<h1 align="center">🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith Dommathamari</span></h1>
-<h3 align="center">⚓ A DevOps Pirate in Progress, Seeking Mastery Across the Cloudy Seas</h3>
-
-<img src="https://imgs.search.brave.com/w7nmT6woY931yJfpCPVQWTzG_Gm4vroO7ZPZSvzmkiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS80NC81/Ni81MUpSbm8uanBn" width="100%" height="250%" alt="Typing SVG" />
----
+<table width="auto" align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="80%">
+      <h1>🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith Dommathamari</h1>
+      <h3>⚓ A DevOps Pirate in Progress, Seeking Mastery Across the Cloudy Seas</h3>
+      <p align="center">
+        <a href="mailto:mohith.dommathamari@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://github.com/iamdommathamari">
+          <img src="https://img.shields.io/github/followers/iamdommathamari?label=GitHub&style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://linkedin.com/in/iamdommathamari">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td align="left" width=auto>
+      <img src="https://imgs.search.brave.com/7ILY_1EKtyQEHswt5uDRbngdgZRt6XAvYaeqfPrfbs8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLnBmcHRvd24u/Y29tLzI0NS9sdWZm/eS1wZnAtNDUwNC5w/bmc" alt="Mohith DevOps Banner" width="240" />
+    </td>
+  </tr>
+</table>
 
 ## 🌊 The Grand DevOps Voyage Begins!
 
