@@ -4,7 +4,7 @@
       <h1>🏴‍☠️ Ahoy! I'm <span style="color:#00ffff">Mohith D. Rakesh</h1>
       <h3>⚓ A DevOps Pirate in Progress, Seeking Mastery Across the Cloudy Seas</h3>
       <p align="center">
-        <a href="mailto:mohith.dommathamari@gmail.com">
+        <a href="mailto:mohithdommathamari@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
         <a href="https://github.com/iamdommathamari">
